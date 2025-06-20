@@ -1,19 +1,23 @@
-🎨 Color Palette Generator
-A simple and interactive web application that helps users create, explore, and save beautiful color palettes for their design projects. Built with a focus on usability, accessibility, and creative freedom.
+🎬 Movie Search App
+A sleek and responsive web application to search for movies and view detailed information using a public movie API. Built with React and styled using Tailwind CSS for a clean and modern UI.
 
-✨ Features
-Generate random color palettes instantly
+🔍 Features
+- 🔎 Search movies in real-time by title
 
-- Lock colors to preserve while randomizing others
+- 🎞️ View movie details including poster, plot, rating, genre, and release year
 
-- Copy HEX color codes to clipboard
+- ⚡ Fast, responsive design with Tailwind CSS
 
-- Save favorite palettes locally
+- ❌ Graceful handling of empty results or errors
 
-- Responsive design for desktop and mobile
+- 📱 Mobile-friendly UI
 
 🛠️ Tech Stack
 
-- HTML, CSS, JavaScript
-
 - React
+
+- Tailwind CSS
+
+- Axios (for API requests)
+
+- TMDb API 
