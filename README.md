@@ -21,3 +21,5 @@ A sleek and responsive web application to search for movies and view detailed in
 - Axios (for API requests)
 
 - TMDb API 
+
+Website: http://localhost:5173/
