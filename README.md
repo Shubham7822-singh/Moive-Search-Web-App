@@ -22,4 +22,4 @@ A sleek and responsive web application to search for movies and view detailed in
 
 - TMDb API 
 
-Website: http://localhost:5173/
+
